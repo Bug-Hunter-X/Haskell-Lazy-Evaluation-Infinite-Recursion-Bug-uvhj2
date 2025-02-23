@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Haskell related to lazy evaluation and infinite lists.  The `bug.hs` file contains code that exhibits unintended infinite recursion, while `bugSolution.hs` provides a corrected version.
